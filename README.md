@@ -1,4 +1,4 @@
-# daily-planner
+# Daily Planner
 
 ## Description
 
